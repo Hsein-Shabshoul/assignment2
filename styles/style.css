@@ -1,8 +1,10 @@
 @font-face {
   font-family: 'roboto';
-  src: url(/fonts/Roboto-Regular.ttf);
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
   font-family: 'roboto-light';
-  src: url(/fonts/Roboto-LightItalic.ttf);
+  src: url(../fonts/Roboto-LightItalic.ttf);
 }
 
 body {
@@ -10,7 +12,7 @@ body {
   width: auto !important;
   width:750px;
   margin: 0;
-  font-family: 'roboto', sans-serif;
+  font-family: 'roboto' , sans-serif;
 }
 
 .header {
