@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'roboto';
-  src: url(../fonts/Roboto-Regular.ttf);
+  src: url(./fonts/Roboto-Regular.ttf);
 }
 @font-face {
   font-family: 'roboto-light';
-  src: url(../fonts/Roboto-LightItalic.ttf);
+  src: url(./fonts/Roboto-LightItalic.ttf);
 }
 
 body {
